@@ -6,6 +6,7 @@ import 'bootstrap/dist/js/bootstrap.bundle.min.js';
 // Pages
 import Home from './pages/Home';
 import Login from './pages/member/Login';
+import Register from './pages/member/Register';
 
 // Member Pages
 import MemberDashboard from './pages/member/Dashboard';
@@ -34,6 +35,7 @@ function App() {
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/login" element={<Login setUser={setUser} />} />
+        <Route path="/register" element={<Register />} />
         
         {/* Member Routes with Layout */}
         <Route path="/member" element={<MemberLayout />}>
