@@ -105,7 +105,7 @@ function GenerateReports() {
 
   return (
     <div className="generate-reports-page">
-      <h2 className="mb-4">📊 Generate Reports</h2>
+      <h2 className="mb-4">Generate Reports</h2>
 
       {/* Report Generator Form */}
       <div className="card shadow-sm mb-4">

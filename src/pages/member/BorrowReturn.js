@@ -95,7 +95,7 @@ function BorrowReturn() {
 
   return (
     <div className="borrow-return-page">
-      <h2 className="mb-4">🔄 Borrow / Return</h2>
+      <h2 className="mb-4">Borrow / Return</h2>
 
       {/* Summary Cards */}
       <div className="row mb-4">

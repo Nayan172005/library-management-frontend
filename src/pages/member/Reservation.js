@@ -90,7 +90,7 @@ function Reservation() {
 
   return (
     <div className="reservation-page">
-      <h2 className="mb-4">📅 My Reservations</h2>
+      <h2 className="mb-4">My Reservations</h2>
 
       {/* Summary Cards */}
       <div className="row mb-4">

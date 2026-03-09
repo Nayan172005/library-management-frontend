@@ -141,7 +141,7 @@ function ManageUsers() {
 
   return (
     <div className="manage-users-page">
-      <h2 className="mb-4">👥 Manage Users</h2>
+      <h2 className="mb-4">Manage Users</h2>
 
       {/* User Form Card */}
       <div className="card shadow-sm mb-4">

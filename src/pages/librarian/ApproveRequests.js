@@ -147,7 +147,7 @@ function ApproveRequests() {
 
   return (
     <div className="approve-requests-page">
-      <h2 className="mb-4">✅ Approve Requests</h2>
+      <h2 className="mb-4">Approve Requests</h2>
 
       {/* Statistics Cards */}
       <div className="row mb-4">

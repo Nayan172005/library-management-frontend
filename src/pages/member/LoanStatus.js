@@ -103,7 +103,7 @@ function LoanStatus() {
 
   return (
     <div className="loan-status-page">
-      <h2 className="mb-4">📋 Loan Status</h2>
+      <h2 className="mb-4">Loan Status</h2>
 
       {/* Statistics Cards */}
       <div className="row mb-4">

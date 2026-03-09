@@ -75,7 +75,7 @@ function FineDetails() {
 
   return (
     <div className="fine-details-page">
-      <h2 className="mb-4">💰 Fine Details</h2>
+      <h2 className="mb-4">Fine Details</h2>
 
       {/* Fine Summary Cards */}
       <div className="row mb-4">

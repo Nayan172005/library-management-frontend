@@ -132,7 +132,7 @@ function ManageBooks() {
 
   return (
     <div className="manage-books-page">
-      <h2 className="mb-4">📚 Manage Books</h2>
+      <h2 className="mb-4">Manage Books</h2>
 
       {/* Book Form Card */}
       <div className="card shadow-sm mb-4">
